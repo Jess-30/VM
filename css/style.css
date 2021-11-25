@@ -747,6 +747,10 @@ a {
 .title .title-primary {
   color: #ee1515;
 }
+.caja-luz img{
+  width: 70vw;
+  max-height: 80vh;
+}
 
 
 
